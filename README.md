@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm Hugh Bromund
+#### I'm a Sophomore studying Computer Science at Purdue University
 
 <!--
 **hughbromund/hughbromund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
