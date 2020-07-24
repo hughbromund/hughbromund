@@ -1,4 +1,4 @@
-<img src="https://github.com/hughbromund/hughbromund/header.png" alt="Hugh Bromund" />
+<img src="https://github.com/hughbromund/hughbromund/raw/master/header.png" alt="Hugh Bromund" />
 
 ### Hi there 👋 I'm Hugh Bromund
 #### I'm a Sophomore studying Computer Science at Purdue University
