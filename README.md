@@ -5,8 +5,11 @@ I'm currently working at LincLogix as a Software Developer Intern. I'm building 
 
 Check out some of the cool projects I've been working on recently.
 
-|*FINEX*| [repo](https://github.com/hughbromund/FINEX) | [live website](https://finex.money)|
-|*Adventurous Sloth*| [repo](https://github.com/hughbromund/AdventurousSloth) | [live website](https://adventurous-sloth-1.ue.r.appspot.com)|
+| Name | Repo | Website |
+|------|------|---------|
+| *FINEX* | [repo](https://github.com/hughbromund/FINEX) | [live website](https://finex.money) |
+| *Adventurous Sloth* | [repo](https://github.com/hughbromund/AdventurousSloth) | [live website](https://adventurous-sloth-1.ue.r.appspot.com)|
+
 
 <!--
 **hughbromund/hughbromund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
