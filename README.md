@@ -1,17 +1,17 @@
 <img src="https://github.com/hughbromund/hughbromund/raw/master/header.png" alt="Hugh Bromund" />
 
 ### Hi there 👋 I'm Hugh Bromund
-#### I'm a Sophomore studying Computer Science at Purdue University
 
-I'm currently working at LincLogix as a Software Developer Intern. I'm building awesome websites and apps using React, Node, Electron, and Express. 
+#### I'm a Junior studying Computer Science at Purdue University
+
+I'm currently working at LincLogix as a Software Developer Intern. I'm building awesome websites and apps using React, Node, Electron, and Express.
 
 Check out some of the cool projects I've been working on recently.
 
-| Name | Repo | Website |
-|------|------|---------|
-| *FINEX* | [repo](https://github.com/hughbromund/FINEX) | [live website](https://finex.money) |
-| *Adventurous Sloth* | [repo](https://github.com/hughbromund/AdventurousSloth) | [live website](https://adventurous-sloth-1.ue.r.appspot.com)|
-
+| Name                | Repo                                                    | Website                                                      |
+| ------------------- | ------------------------------------------------------- | ------------------------------------------------------------ |
+| _FINEX_             | [repo](https://github.com/hughbromund/FINEX)            | [live website](https://finex.money)                          |
+| _Adventurous Sloth_ | [repo](https://github.com/hughbromund/AdventurousSloth) | [live website](https://adventurous-sloth-1.ue.r.appspot.com) |
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
