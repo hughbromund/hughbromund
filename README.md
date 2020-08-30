@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/hughbromund/hughbromund/master/header.png" alt="Hugh Bromund" />
+<p align="center">
+<img src="https://raw.githubusercontent.com/hughbromund/hughbromund/master/header.png" alt="Hugh Bromund"/>
+</p>
 
 ### Hi there 👋 I'm Hugh Bromund
 
